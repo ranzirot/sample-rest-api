@@ -1,2 +1,10 @@
-{"tables" :[{"id": 1,"name": "table1"},{"id": 2,"name": "table2"},{"id": 3,"name": "table3"},{"id": 4,"name": "table4"}]}
-
+{
+  "posts": [
+    {
+      "tables" :[{"id": 1,"name": "table1"},{"id": 2,"name": "table2"},{"id": 3,"name": "table3"},{"id": 4,"name": "table4"}]
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
